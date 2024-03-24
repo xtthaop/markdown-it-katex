@@ -1,5 +1,5 @@
 {
-  "name": "markdown-it-katex",
+  "name": "@xtthaop/markdown-it-katex",
   "version": "2.0.3",
   "description": "Fast math support for markdown-it with KaTeX",
   "main": "index.js",
@@ -22,7 +22,7 @@
   "author": "waylonflinn@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "katex": "^0.6.0"
+    "katex": "^0.16.9"
   },
   "devDependencies": {
     "markdown-it": "^6.0.0",
