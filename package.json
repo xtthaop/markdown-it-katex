@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:waylonflinn/markdown-it-katex.git"
+    "url": "git@github.com:xtthaop/markdown-it-katex.git"
   },
   "keywords": [
     "markdown",
